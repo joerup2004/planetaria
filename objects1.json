@@ -4531,8 +4531,8 @@
       "obliquityToOrbit": null,
       "speedRelativeToStars": null,
       "binaryOrbiting": "Aa",
-      "binaryOrbitalRadius": null,
-      "binaryOrbitalPeriod": 0.1535,
+      "binaryOrbitalRadius": 0.02524,
+      "binaryOrbitalPeriod": null,
       "binaryOrbitalEccentricity": 0.5,
       "orbiting": null,
       "orbitalRadius": null,
@@ -4609,10 +4609,10 @@
       "siderealRotation": null,
       "obliquityToOrbit": null,
       "speedRelativeToStars": null,
-      "binaryOrbiting": null,
-      "binaryOrbitalRadius": null,
-      "binaryOrbitalPeriod": null,
-      "binaryOrbitalEccentricity": null,
+      "binaryOrbiting": "A",
+      "binaryOrbitalRadius": 7.369,
+      "binaryOrbitalPeriod": 445,
+      "binaryOrbitalEccentricity": 0.36,
       "orbiting": null,
       "orbitalRadius": null,
       "orbitalPeriodE6": null,
@@ -4689,8 +4689,8 @@
       "obliquityToOrbit": null,
       "speedRelativeToStars": null,
       "binaryOrbiting": "Bb",
-      "binaryOrbitalRadius": null,
-      "binaryOrbitalPeriod": 0.04881,
+      "binaryOrbitalRadius": 0.008023,
+      "binaryOrbitalPeriod": null,
       "binaryOrbitalEccentricity": null,
       "orbiting": null,
       "orbitalRadius": null,
@@ -4768,8 +4768,8 @@
       "obliquityToOrbit": null,
       "speedRelativeToStars": null,
       "binaryOrbiting": "AB",
-      "binaryOrbitalRadius": null,
-      "binaryOrbitalPeriod": 14000,
+      "binaryOrbitalRadius": 14000,
+      "binaryOrbitalPeriod": null,
       "binaryOrbitalEccentricity": null,
       "orbiting": null,
       "orbitalRadius": null,
@@ -4847,8 +4847,8 @@
       "obliquityToOrbit": null,
       "speedRelativeToStars": null,
       "binaryOrbiting": "Ca",
-      "binaryOrbitalRadius": null,
-      "binaryOrbitalPeriod": 0.01357,
+      "binaryOrbitalRadius": 0.00223,
+      "binaryOrbitalPeriod": null,
       "binaryOrbitalEccentricity": 0,
       "orbiting": null,
       "orbitalRadius": null,
@@ -22515,7 +22515,7 @@
       "densityCenter": null,
       "pressureCenter": null
     }
-  ],
+  ], 
   "planets": [
     {
       "name": "Mercury",
@@ -22592,7 +22592,7 @@
       "maxTemp": 430,
       "minTemp": -180,
       "surfacePressure": 0,
-      "magneticField": false
+      "magneticField": true
     },
     {
       "name": "Venus",
@@ -22746,7 +22746,7 @@
       "maxTemp": null,
       "minTemp": null,
       "surfacePressure": 1,
-      "magneticField": false
+      "magneticField": true
     },
     {
       "name": "Mars",
@@ -22894,13 +22894,13 @@
       "j2En6": 14736,
       "j2": 0.014736,
       "moons": 79,
-      "rings": false,
+      "rings": true,
       "tempK": null,
       "avgTemp": -108,
       "maxTemp": null,
       "minTemp": null,
       "surfacePressure": null,
-      "magneticField": false
+      "magneticField": true
     },
     {
       "name": "Saturn",
@@ -22971,13 +22971,13 @@
       "j2En6": 16298,
       "j2": 0.016298,
       "moons": 82,
-      "rings": false,
+      "rings": true,
       "tempK": null,
       "avgTemp": -138,
       "maxTemp": null,
       "minTemp": null,
       "surfacePressure": null,
-      "magneticField": false
+      "magneticField": true
     },
     {
       "name": "Uranus",
@@ -23048,13 +23048,13 @@
       "j2En6": 3343.43,
       "j2": 0.00334343,
       "moons": 27,
-      "rings": false,
+      "rings": true,
       "tempK": null,
       "avgTemp": -195,
       "maxTemp": null,
       "minTemp": null,
       "surfacePressure": null,
-      "magneticField": false
+      "magneticField": true
     },
     {
       "name": "Neptune",
@@ -23125,13 +23125,13 @@
       "j2En6": 3411,
       "j2": 0.003411,
       "moons": 14,
-      "rings": false,
+      "rings": true,
       "tempK": null,
       "avgTemp": -201,
       "maxTemp": null,
       "minTemp": null,
       "surfacePressure": null,
-      "magneticField": false
+      "magneticField": true
     },
     {
       "name": "Pluto",
@@ -23433,7 +23433,7 @@
       "j2En6": null,
       "j2": null,
       "moons": 2,
-      "rings": false,
+      "rings": true,
       "tempK": null,
       "avgTemp": -241,
       "maxTemp": null,
@@ -25382,7 +25382,7 @@
       "adjective": null,
       "minorPlanetNum": null,
       "sizeType": "PT",
-      "system": "Luyten's Star System",
+      "system": "Luyten's Star",
       "orbiting": "Luyten's Star",
       "distanceLy": 12.251,
       "orbitalRadiusE6": null,
@@ -25459,7 +25459,7 @@
       "adjective": null,
       "minorPlanetNum": null,
       "sizeType": "PT",
-      "system": "Luyten's Star System",
+      "system": "Luyten's Star",
       "orbiting": "Luyten's Star",
       "distanceLy": 12.251,
       "orbitalRadiusE6": null,
@@ -25536,7 +25536,7 @@
       "adjective": null,
       "minorPlanetNum": null,
       "sizeType": "PT",
-      "system": "Kapteyn's Star System",
+      "system": "Kapteyn's Star",
       "orbiting": "Kapteyn's Star",
       "distanceLy": 12.829,
       "orbitalRadiusE6": null,
@@ -25613,7 +25613,7 @@
       "adjective": null,
       "minorPlanetNum": null,
       "sizeType": "PT",
-      "system": "Kapteyn's Star System",
+      "system": "Kapteyn's Star",
       "orbiting": "Kapteyn's Star",
       "distanceLy": 12.829,
       "orbitalRadiusE6": null,
@@ -29317,7 +29317,7 @@
       "maxTemp": null,
       "minTemp": null,
       "surfacePressure": null,
-      "magneticField": false
+      "magneticField": true
     },
     {
       "name": "Callisto",
@@ -46167,7 +46167,7 @@
       "surfacePressure": null,
       "magneticField": null
     }
-  ], 
+  ],
   "other": [
     {
       "name": "Ceres",
