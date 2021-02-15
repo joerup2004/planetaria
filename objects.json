@@ -7901,7 +7901,7 @@
       "pressureCenter": null
     },
     {
-      "name": "DENIS J1 84504.9-635747 A",
+      "name": "DENIS J184504.9-635747 A",
       "id": 101,
       "type": "Star",
       "desc": null,
@@ -7913,7 +7913,7 @@
       "discoveredBy": null,
       "namesake": null,
       "nameReason": null,
-      "system": "DENIS J1 84504.9-635747",
+      "system": "DENIS J184504.9-635747",
       "systemName2": null,
       "distanceLy": 13.05,
       "constellation": null,
@@ -7980,7 +7980,7 @@
       "pressureCenter": null
     },
     {
-      "name": "DENIS J1 84504.9-635747 B",
+      "name": "DENIS J184504.9-635747 B",
       "id": 102,
       "type": "Star",
       "desc": null,
@@ -7992,7 +7992,7 @@
       "discoveredBy": null,
       "namesake": null,
       "nameReason": null,
-      "system": "DENIS J1 84504.9-635747",
+      "system": "DENIS J184504.9-635747",
       "systemName2": null,
       "distanceLy": 13.05,
       "constellation": null,
