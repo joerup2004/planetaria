@@ -2534,9 +2534,9 @@
       "type": "Star",
       "desc": null,
       "nickname": "Alpha Scorpii B",
-      "image": "Red1",
+      "image": "Blue2",
       "systemParagraph": null,
-      "paragraph": "Antares B is a smaller star in orbit around Antares A.",
+      "paragraph": "Antares B is a smaller but hotter blue star in orbit around Antares A.",
       "discoveryDate": null,
       "discoveredBy": null,
       "namesake": null,
@@ -22515,7 +22515,7 @@
       "densityCenter": null,
       "pressureCenter": null
     }
-  ], 
+  ],
   "planets": [
     {
       "name": "Mercury",
